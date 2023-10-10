@@ -160,16 +160,20 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT
 ### Summary:
-![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/20bd8ff0-0fa4-4881-a100-a0208b0b9e5c)
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94883876/5503a33e-3428-4c7f-a59a-233ae0dc2890)
+
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
-![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/fcc36c12-cb1c-4c5c-851c-488223e1acd1)
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94883876/9da9b98d-1fa4-4a5b-a663-be3b45bbca63)
 
-![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/6a5eeba1-0b67-4ab2-8fa2-582cf27477d6)
+
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94883876/6d1e73b0-bc3c-4d79-b3e8-b99649e8e63a)
+
 
 ### Sample Text Prediction:
-![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/08f3a1ba-4c2d-4f5c-94c7-0b8ace75d085)
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94883876/71ec60c3-3a83-42a2-9aa1-828d6dc93d7d)
+
 
 
 ## RESULT
