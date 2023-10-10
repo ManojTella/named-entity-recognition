@@ -5,6 +5,8 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement :
+![WhatsApp Image 2023-10-10 at 11 14 43_f786f442](https://github.com/ManojTella/named-entity-recognition/assets/94883876/007901be-9820-40e2-81bd-079911bb71a1)
+
 Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organisations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.  It adds a wealth of semantic knowledge to your content and helps you to promptly understand the subject of any given text.
 
 
@@ -39,8 +41,8 @@ Plot the graph of accuracy and Loss.
 ## PROGRAM
 
 ```
-Name: P.Ramsai
-Roll no: 212221240041
+Name: Manoj Guna Sundar Tella.
+Roll No: 212221240026.
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -158,16 +160,16 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT
 ### Summary:
-![image](https://github.com/Ramsai1234/named-entity-recognition/assets/94269989/20bd8ff0-0fa4-4881-a100-a0208b0b9e5c)
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/20bd8ff0-0fa4-4881-a100-a0208b0b9e5c)
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
 
-![image](https://github.com/Ramsai1234/named-entity-recognition/assets/94269989/fcc36c12-cb1c-4c5c-851c-488223e1acd1)
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/fcc36c12-cb1c-4c5c-851c-488223e1acd1)
 
-![image](https://github.com/Ramsai1234/named-entity-recognition/assets/94269989/6a5eeba1-0b67-4ab2-8fa2-582cf27477d6)
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/6a5eeba1-0b67-4ab2-8fa2-582cf27477d6)
 
 ### Sample Text Prediction:
-![image](https://github.com/Ramsai1234/named-entity-recognition/assets/94269989/08f3a1ba-4c2d-4f5c-94c7-0b8ace75d085)
+![image](https://github.com/ManojTella/named-entity-recognition/assets/94269989/08f3a1ba-4c2d-4f5c-94c7-0b8ace75d085)
 
 
 ## RESULT
